@@ -1,0 +1,122 @@
+[
+  {
+    "filename": "software_engineering_01_alex_chen.pdf",
+    "category": "software_engineering",
+    "name": "Alex Chen",
+    "title": "Senior Software Engineer"
+  },
+  {
+    "filename": "software_engineering_02_priya_sharma.pdf",
+    "category": "software_engineering",
+    "name": "Priya Sharma",
+    "title": "Full Stack Developer"
+  },
+  {
+    "filename": "software_engineering_03_marcus_johnson.pdf",
+    "category": "software_engineering",
+    "name": "Marcus Johnson",
+    "title": "Backend Engineer"
+  },
+  {
+    "filename": "software_engineering_04_elena_rodriguez.pdf",
+    "category": "software_engineering",
+    "name": "Elena Rodriguez",
+    "title": "DevOps Engineer"
+  },
+  {
+    "filename": "data_science_01_david_kim.pdf",
+    "category": "data_science",
+    "name": "David Kim",
+    "title": "Data Scientist"
+  },
+  {
+    "filename": "data_science_02_sarah_williams.pdf",
+    "category": "data_science",
+    "name": "Sarah Williams",
+    "title": "Machine Learning Engineer"
+  },
+  {
+    "filename": "data_science_03_james_okafor.pdf",
+    "category": "data_science",
+    "name": "James Okafor",
+    "title": "AI Research Analyst"
+  },
+  {
+    "filename": "data_science_04_lisa_park.pdf",
+    "category": "data_science",
+    "name": "Lisa Park",
+    "title": "Analytics Manager"
+  },
+  {
+    "filename": "marketing_01_emily_foster.pdf",
+    "category": "marketing",
+    "name": "Emily Foster",
+    "title": "Digital Marketing Manager"
+  },
+  {
+    "filename": "marketing_02_ryan_mitchell.pdf",
+    "category": "marketing",
+    "name": "Ryan Mitchell",
+    "title": "Brand Strategist"
+  },
+  {
+    "filename": "marketing_03_nina_patel.pdf",
+    "category": "marketing",
+    "name": "Nina Patel",
+    "title": "Content Marketing Specialist"
+  },
+  {
+    "filename": "marketing_04_chris_taylor.pdf",
+    "category": "marketing",
+    "name": "Chris Taylor",
+    "title": "Social Media Manager"
+  },
+  {
+    "filename": "finance_01_michael_brown.pdf",
+    "category": "finance",
+    "name": "Michael Brown",
+    "title": "Financial Analyst"
+  },
+  {
+    "filename": "finance_02_jennifer_lee.pdf",
+    "category": "finance",
+    "name": "Jennifer Lee",
+    "title": "Accountant"
+  },
+  {
+    "filename": "finance_03_robert_garcia.pdf",
+    "category": "finance",
+    "name": "Robert Garcia",
+    "title": "Investment Banking Associate"
+  },
+  {
+    "filename": "finance_04_amanda_white.pdf",
+    "category": "finance",
+    "name": "Amanda White",
+    "title": "Risk Analyst"
+  },
+  {
+    "filename": "healthcare_01_dr._susan_miller.pdf",
+    "category": "healthcare",
+    "name": "Dr. Susan Miller",
+    "title": "Registered Nurse"
+  },
+  {
+    "filename": "healthcare_02_kevin_thompson.pdf",
+    "category": "healthcare",
+    "name": "Kevin Thompson",
+    "title": "Physical Therapist"
+  },
+  {
+    "filename": "healthcare_03_maria_gonzalez.pdf",
+    "category": "healthcare",
+    "name": "Maria Gonzalez",
+    "title": "Medical Laboratory Technician"
+  },
+  {
+    "filename": "healthcare_04_daniel_harris.pdf",
+    "category": "healthcare",
+    "name": "Daniel Harris",
+    "title": "Healthcare Administrator"
+  }
+]
